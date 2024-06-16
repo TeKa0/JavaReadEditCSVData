@@ -1,0 +1,4 @@
+Typ:  prywatne, Liczba niewykonanych zadań: 1
+Typ:  służbowe, Liczba niewykonanych zadań: 2
+Liczba wykonanych zadań: 3
+Maksymalny priorytet niewykonanych zadań: 9
